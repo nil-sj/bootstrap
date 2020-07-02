@@ -1,10 +1,5 @@
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: #d6efc7;
-}
-
-a {
-    color: #184d47;
 }
 
 h1, h2, h3 {
@@ -12,53 +7,34 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #fb7813;
-}
-
-h3, h5 {
-    color:  #184d47;
+    color: #3046C5;
 }
 
 header h2 {
-    color: #96bb7c;
+    color: #CEC8FF;
 }
 
-
 .site-footer {
-    background-image: linear-gradient(#96bb7c, #d6efc7);
+    background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
 
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to top, #17706E, #184d47);
-    
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
-}
-
-#header-btn {
-    background: #fb7813;
 }
 
 .row-content {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
-    background-color: white;
-}
-
-.page-heading {
-    background-color: white;
-}
-
-.breadcrumb {
-    background-color: #d6efc7;
 }
 
 .navbar {
-    background: #184d47;
-    box-shadow: 2px 4px 8px 2px #A0A0A0;
+    background: #901CAD;
+
 }
 
 .tab-content {
@@ -72,9 +48,5 @@ header h2 {
 }
 
 .carousel {
-    border: solid #184d47;
-}
-
-.my-tab-body-color {
-    background-color: #d6efc7;
+    border: solid #5637DD;
 }
