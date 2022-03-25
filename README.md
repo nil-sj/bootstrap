@@ -1,4 +1,4 @@
-# bootstrap
+# Bootstrap
 NuCamp Course Work on Bootstrap
 
 The project includes code in HTML, CSS, JS, jQuery, Bootstrap, Font Awesome, Bootstrap Social Icons.
